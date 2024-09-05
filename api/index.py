@@ -10,7 +10,7 @@ def home():
 <html>
   <head>
     <title>YouTube Video Downloader</title>
-    <link rel="icon" href="download.jpeg">
+    <link rel="icon" href="./download.jpeg">
     <style>
       body {
         font-family: Arial, Sans-Serif, Comic Sans MS;
